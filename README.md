@@ -185,9 +185,9 @@ All the species are consumed as food around the regions of Thamirabarani when th
 ```
 ## Output:
 
-![image](https://user-images.githubusercontent.com/120115840/233788885-8e1574f8-fb68-4087-816d-e50c36191b33.png)
-
 ![image](https://user-images.githubusercontent.com/120115840/233788857-b1e08a31-e716-44d6-9cdb-5b2ebcaa45c0.png)
+
+![image](https://user-images.githubusercontent.com/120115840/233788885-8e1574f8-fb68-4087-816d-e50c36191b33.png)
 
 ![image](https://user-images.githubusercontent.com/120115840/233788909-1052b00b-f898-4cec-a122-3511077d3086.png)
 
